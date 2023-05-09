@@ -1,0 +1,83 @@
+* {
+}
+
+.header {}
+
+.island {
+    width: 400px;
+    margin: auto;
+    margin-top: 44px;
+    margin-bottom: 155px;
+    background: #D9D9D9;
+    border-radius: 267px;
+}
+
+nav { }
+
+.nav {
+    all: unset;
+    text-align: center;
+    
+}
+
+ul {
+    all: unset;
+    justify-content: ;
+}
+
+li {
+    all: unset;
+    
+}
+
+.one {margin-right: 14px;
+    margin-top:4px;
+    margin-bottom:4px;}
+
+.L {margin-right: 14px;
+    margin-top:4px;
+    margin-bottom:4px;}
+
+.two {
+    margin-top:4px;
+    margin-bottom:4px;
+}
+
+.main {}
+
+h1 {
+font-weight: 400;
+font-size: 55px;
+text-align: center;
+
+
+}
+
+.containerin {
+    display: flex;
+justify-content: space-between;
+width: 1054px;
+margin: 20px auto;
+}
+
+.card {
+    border: 1px solid black;   
+    border-radius: 53px;
+    width: 440px;
+    height: 440px;}
+
+.incard {
+    width: 440px;
+    height: 385px;
+    border: 1px solid black;
+    border-radius: 53px;
+    margin-top: 27px;
+    margin-bottom: 27px;}
+.pause{
+    width: 382px;
+    text-align: center;
+}
+
+.footer {}
+
+.down {}
